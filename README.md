@@ -1,3 +1,8 @@
+### Demo
+
+![Demo](demo.png)
+
+
 ## Project Structure
 
 ```
@@ -23,6 +28,7 @@ The application provides a formula input interface where users can:
 4. Get results of formula
 
 ## Acknowledgments
+
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
